@@ -1,0 +1,58 @@
+[
+    {
+      "id": "8372",
+      "cover": "https://i.ibb.co/VJDJjvG/7964736.jpg",
+      "title": "The Whispering Canvas",
+      "author": "Cassandra Starling",
+      "img": "https://i.ibb.co/BBBvDCV/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "posted_Date": "2024-03-12",
+      "reading": 532,
+      "time": "2 hours",
+      "hashtags": ["#art", "#mystery", "#fiction"]
+    },
+    {
+      "id": "2156",
+      "cover": "Landscape scenery",
+      "title": "Echoes of the Valley",
+      "author": "Marcus Rivers",
+      "img": "/images/echoes_valley.jpg",
+      "posted_Date": "2024-03-10",
+      "reading": 965,
+      "time": "3 hours",
+      "hashtags": ["#nature", "#adventure", "#novel"]
+    },
+    {
+      "id": "6218",
+      "cover": "https://i.ibb.co/VJDJjvG/7964736.jpg",
+      "title": "Quantum Flux",
+      "author": "Xander Nova",
+      "img": "https://i.ibb.co/BBBvDCV/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "posted_Date": "2024-03-09",
+      "reading": 724,
+      "time": "4 hours",
+      "hashtags": ["#scifi", "#technology", "#quantumphysics"]
+    },
+    {
+      "id": "3789",
+      "cover": "https://i.ibb.co/VJDJjvG/7964736.jpg",
+      "title": "The Enchanted Tome",
+      "author": "Isabella Nightshade",
+      "img": "https://i.ibb.co/BBBvDCV/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "posted_Date": "2024-03-08",
+      "reading": 1102,
+      "time": "5 hours",
+      "hashtags": ["#fantasy", "#magic", "#adventure"]
+    },
+    {
+      "id": "9435",
+      "cover": "https://i.ibb.co/VJDJjvG/7964736.jpg",
+      "title": "Shadows of the Empire",
+      "author": "Alexander Steele",
+      "img": "https://i.ibb.co/BBBvDCV/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "posted_Date": "2024-03-07",
+      "reading": 853,
+      "time": "2.5 hours",
+      "hashtags": ["#history", "#war", "#intrigue"]
+    }
+  ]
+  
