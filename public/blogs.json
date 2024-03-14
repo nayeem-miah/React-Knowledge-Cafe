@@ -1,58 +1,57 @@
 [
     {
-      "id": "8372",
-      "cover": "https://i.ibb.co/VJDJjvG/7964736.jpg",
-      "title": "The Whispering Canvas",
+      "id": "1",
+      "cover": "https://i.ibb.co/j3Ts5N7/pen-keyboard-near-tablet-plant.jpg",
+      "title": " Top 10 ES6  future you most know",
       "author": "Cassandra Starling",
-      "img": "https://i.ibb.co/BBBvDCV/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "img": "https://i.ibb.co/Jpsr7kS/front-view-smiley-man-reading-book.jpg",
       "posted_Date": "2024-03-12",
       "reading": 532,
-      "time": "2 hours",
-      "hashtags": ["#art", "#mystery", "#fiction"]
+      "time": 6,
+      "hashtags": ["development", 
+      "react",
+       "es6"]
     },
     {
-      "id": "2156",
-      "cover": "Landscape scenery",
-      "title": "Echoes of the Valley",
-      "author": "Marcus Rivers",
-      "img": "/images/echoes_valley.jpg",
+      "id": "2",
+      "cover": "https://i.ibb.co/4tYNSm9/programming-background-collage.jpg",
+      "title": "Journey of web development 2024",
+      "author": "Nayeem Miah",
+      "img": "https://i.ibb.co/hyTL9zz/05-removebg.png",
       "posted_Date": "2024-03-10",
       "reading": 965,
-      "time": "3 hours",
-      "hashtags": ["#nature", "#adventure", "#novel"]
+      "time": 5,
+      "hashtags": ["react",
+       "adventure",
+        "development"]
     },
     {
-      "id": "6218",
-      "cover": "https://i.ibb.co/VJDJjvG/7964736.jpg",
-      "title": "Quantum Flux",
+      "id": "3",
+      "cover": "https://i.ibb.co/gWxfXXJ/2011-i126-001-old-library-book-interior-set-02.jpg",
+      "title": "study of web programmer so all time be active",
       "author": "Xander Nova",
       "img": "https://i.ibb.co/BBBvDCV/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
       "posted_Date": "2024-03-09",
       "reading": 724,
-      "time": "4 hours",
-      "hashtags": ["#scifi", "#technology", "#quantumphysics"]
+      "time": 10,
+      "hashtags": ["Es6", 
+      "react",
+       "vite"]
     },
     {
-      "id": "3789",
+      "id": "4",
       "cover": "https://i.ibb.co/VJDJjvG/7964736.jpg",
       "title": "The Enchanted Tome",
       "author": "Isabella Nightshade",
       "img": "https://i.ibb.co/BBBvDCV/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
       "posted_Date": "2024-03-08",
       "reading": 1102,
-      "time": "5 hours",
-      "hashtags": ["#fantasy", "#magic", "#adventure"]
-    },
-    {
-      "id": "9435",
-      "cover": "https://i.ibb.co/VJDJjvG/7964736.jpg",
-      "title": "Shadows of the Empire",
-      "author": "Alexander Steele",
-      "img": "https://i.ibb.co/BBBvDCV/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
-      "posted_Date": "2024-03-07",
-      "reading": 853,
-      "time": "2.5 hours",
-      "hashtags": ["#history", "#war", "#intrigue"]
+      "time": 5,
+      "hashtags": [
+        "wev_development",
+       "magic", 
+       "react"]
     }
+   
   ]
   
